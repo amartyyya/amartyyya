@@ -48,14 +48,6 @@
   <a href="https://leetcode.com/u/itaachi123/" target="_blank">
     <img align="center" alt="Amartya Maurya | LeetCode" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
   </a> &nbsp;&nbsp;
-  
-  <a href="https://codeforces.com/profile/Raul" target="_blank">
-    <img align="center" alt="Amartya Maurya | CodeForces" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Codeforces_logo.svg" />
-  </a> &nbsp;&nbsp;
-
-  <a href="https://www.codechef.com/users/raowl" target="_blank">
-    <img align="center" alt="Amartya Maurya | CodeChef" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/CodeChef_Logo.png" />
-  </a> &nbsp;&nbsp;
 </p> 
 
 <h2 align="center"> 🧑‍💻 Feeding... </h2>
