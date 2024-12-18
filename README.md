@@ -45,7 +45,7 @@
     <img align="center" alt="Amartya Maurya | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://leetcode.com/u/amartyyya/" target="_blank">
+  <a href="https://leetcode.com/u/itaachi123/" target="_blank">
     <img align="center" alt="Amartya Maurya | LeetCode" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
   </a> &nbsp;&nbsp;
   
