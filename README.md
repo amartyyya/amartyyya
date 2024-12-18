@@ -53,6 +53,7 @@
 <h2 align="center"> 🧑‍💻 Feeding... </h2>
 
 ![Snake animation](https://raw.githubusercontent.com/amartyyya/amartyyya/output/github-contribution-grid-snake-dark.svg)
+
 <hr/>
 
 <div align="center">
