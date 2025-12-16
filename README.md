@@ -1,61 +1,88 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hello😊!!!;Welcome+to+my+profile!;I'm+Amartya+Maurya+%3C3;" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=45&center=true&vCenter=true&height=60&width=700&lines=Hi+👋+I'm+Amartya+Maurya;Software+Developer;Backend+%7C+Distributed+Systems+%7C+DSA" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+## 👨‍💻 About Me
 
-- :credit_card: My Name is Amartya Maurya <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: I'm currently pursuing B.Tech in Computer Science at Indian Institute of Information Technology Lucknow
-- :earth_asia: I'm From India
-- :sweat_smile: I'm a Full-Stack Developer and Competitive Programmer
-- :monocle_face: I enjoy coding, problem-solving, and collaborating on projects
+- 🎓 B.Tech in Computer Science — **IIIT Lucknow (2025)**
+- 💼 Software Development Engineer @ **OneXtel**
+- ⚙️ Backend-focused engineer building **scalable & distributed systems**
+- 🧠 Strong in **Data Structures, Algorithms, and System Design**
+- 🏆 **Codeforces Expert (1627)** | **LeetCode Knight (1966)**
 
-<br/>
-<br/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+---
+
+## 🛠️ Tech Stack & Expertise
+
+**Languages**
+- Java, Python, C++, JavaScript, TypeScript
+
+**Backend & Frameworks**
+- Spring Boot, Node.js, Express.js
+- REST APIs, Microservices Architecture
+
+**Databases & Caching**
+- PostgreSQL, MongoDB, MySQL
+- Redis (Caching, Pub/Sub)
+
+**Distributed Systems**
+- Apache Kafka (Consumers, Partitioning, Offsets)
+- Event-driven architectures
+
+**DevOps & Observability**
+- Docker, Git/GitHub
+- Prometheus, Grafana
+- OpenAPI / Swagger
+
+---
+
+## 🚀 What I Build
+
+- High-performance backend services
+- Event-driven pipelines using Kafka
+- Cache-optimized APIs for low-latency systems
+- Scalable database schemas & data pipelines
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,bootstrap,tailwind,html,css,python,java,javascript,vscode,github,git" /><br>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amartyyya&show_icons=true&theme=algolia&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartyyya&layout=compact&theme=algolia&hide_border=true" />
 </div>
 
-<br/>
-<hr/>
-
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartyyya&layout=compact&show_icon=true&theme=algolia" alt="amartyyya-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=amartyyya&layout=compact&show_icon=true&theme=algolia" alt="amartyyya-stats"/>
-</div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=amartyyya&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=amartyyya&theme=react-dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amartyyya&theme=algolia&hide_border=true" />
 </div>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect With Me
+---
+
+## 🔗 Connect With Me
+
 <p align="center">
-  <a href="mailto:amartya.ouo7@gmail.com" >
-    <img align="center" alt="Amartya Maurya | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <a href="mailto:amartya.iiitl@gmail.com">
+    <img width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
-  
   <a href="https://www.linkedin.com/in/amartyyya/" target="_blank">
-    <img align="center" alt="Amartya Maurya | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  
   <a href="https://github.com/amartyyya" target="_blank">
-    <img align="center" alt="Amartya Maurya | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
-  
   <a href="https://leetcode.com/u/itaachi123/" target="_blank">
-    <img align="center" alt="Amartya Maurya | LeetCode" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
-  </a> &nbsp;&nbsp;
-</p> 
+    <img width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+  </a>
+</p>
 
-<h2 align="center"> 🧑‍💻 Feeding... </h2>
+---
+
+<h3 align="center"> 🐍 Contribution Activity </h3>
 
 ![Snake animation](https://raw.githubusercontent.com/amartyyya/amartyyya/output/github-contribution-grid-snake-dark.svg)
 
-<hr/>
+---
 
 <div align="center">
-  :heart_eyes: Thanks for visiting my profile! Have a great day! :wink: <br/>
+  🚀 Backend • Distributed Systems • Problem Solving
 </div>
